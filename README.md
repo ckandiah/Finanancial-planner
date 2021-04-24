@@ -1,2 +1,2 @@
-# Finanancial-planner
-Homework- 05-APIs
+# Homework-Week6
+Homework- 06
